@@ -1,6 +1,8 @@
 {
   "name": "Syafiq Hadzir™ - Official Website",
   "short_name": "Syafiq Hadzir™ - Official Website",
+  "start_url": "/",
+  "display": "standalone",
   "icons": [
     {
       "src": "https://amp.syafiqhadzir.dev/favicons/android-chrome-36x36.png",
