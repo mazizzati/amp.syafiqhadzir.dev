@@ -14,7 +14,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/SyafiqHadzir/amp.syafiqhadzir.dev">
+  <a rel="noopener noreferrer" href="https://github.com/SyafiqHadzir/amp.syafiqhadzir.dev">
     <img src="https://syafiqhadzir.dev/favicons/android-chrome-192x192.png"
          alt="Personal AMP Website"
          title="Personal AMP Website"
@@ -26,7 +26,7 @@
   <p align="center">
     Personal AMP Website
     <br />
-    <a href="https://amp.syafiqhadzir.dev/"><strong>View Website »</strong></a>
+    <a rel="noopener noreferrer" href="https://amp.syafiqhadzir.dev/"><strong>View Website »</strong></a>
     <br />
   </p>
 </p>
