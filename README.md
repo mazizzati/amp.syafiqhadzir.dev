@@ -11,7 +11,25 @@
 [![Stargazers][stars-shield]][stars-url]
 [![MIT License][license-shield]][license-url]
 
-# amp.syafiqhadzir.dev
+<!-- PROJECT LOGO -->
+<br />
+<p align="center">
+  <a href="https://github.com/SyafiqHadzir/syafiqhadzir.github.io">
+    <img src="https://syafiqhadzir.dev/favicons/android-chrome-192x192.png"
+         alt="Personal AMP Website"
+         title="Personal AMP Website"
+         height="192" />
+  </a>
+
+  <h3 align="center">Syafiq Hadzir (蟻颜慧)</h3>
+
+  <p align="center">
+    Personal AMP Website
+    <br />
+    <a href="https://syafiqhadzir.github.io/"><strong>View Website »</strong></a>
+    <br />
+  </p>
+</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
