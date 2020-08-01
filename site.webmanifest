@@ -1,7 +1,8 @@
 {
   "name": "Syafiq Hadzir™ - Official Website",
   "short_name": "Syafiq Hadzir™ - Official Website",
-  "start_url": "/",
+  "start_url": "/index.html",
+  "scope": "/",
   "display": "standalone",
   "icons": [
     {
