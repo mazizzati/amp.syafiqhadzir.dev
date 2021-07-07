@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:ror="http://rorweb.com/0.1/" >
 <channel>
-  <title>ROR Sitemap for https://amp.syafiqhadzir.dev/index.html</title>
-  <link>https://amp.syafiqhadzir.dev/index.html</link>
+  <title>ROR Sitemap for https://amp.syafiqhadzir.dev/</title>
+  <link>https://amp.syafiqhadzir.dev/</link>
 
 <item>
-     <link>https://amp.syafiqhadzir.dev/index.html</link>
+     <link>https://amp.syafiqhadzir.dev/</link>
      <title>Syafiq Hadzir™ - Official Website</title>
-     <description>An official website of an inspirational writer, an unethical hacker, a dedicated father. Copyright &amp;#169; 2018-2020 Syafiq Hadzir. Some rights reserved.</description>
+     <description>An official website of an inspirational writer, a security researcher, a dedicated father. Copyright &amp;#169; 2018-2020 Syafiq Hadzir. Some rights reserved.</description>
      <ror:updatePeriod>never</ror:updatePeriod>
      <ror:sortOrder>0</ror:sortOrder>
      <ror:resourceOf>sitemap</ror:resourceOf>
