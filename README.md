@@ -21,7 +21,7 @@
          height="192" />
   </a>
 
-  <h3 align="center">Syafiq Hadzir (蟻颜慧)</h3>
+  <h3 align="center">Syafiq Hadzir</h3>
 
   <p align="center">
     Personal AMP Website
